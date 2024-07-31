@@ -13,7 +13,7 @@
 - 1st Step is to install library libcurses-perl
 ```bash
 sudo apt-get install libcurses-perl
-cd /tmp
+cd /tmp/aquarium-CLI
 git clone https://github.com/0xT3sla/aquarium-CLI.git
 tar -zxvf Term-Animation-2.4.tar.gz
 cd Term-Animation-2.4/
@@ -22,7 +22,7 @@ sudo make install
 ```
 - 2nd step is to install the aquarium
 ```bash
-cd /tmp
+cd /tmp/aquarium-CLI
 tar -zxvf asciiquarium.tar.gz
 cd asciiquarium_1.1/
 sudo cp asciiquarium /usr/local/bin
