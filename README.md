@@ -1,5 +1,5 @@
 # aquarium-CLI
-
+```
      |\    o
     |  \    o
 |\ /    .\ o
@@ -7,7 +7,7 @@
 |/ \     /
     |  /
      |/
-
+```
 #### Follow these steps one by one: 
 - Clone this repository in `/tmp` folder on your linux machine 
 - 1st Step is to install library libcurses-perl
